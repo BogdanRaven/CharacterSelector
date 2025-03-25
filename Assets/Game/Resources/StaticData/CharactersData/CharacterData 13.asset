@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d341077b8ca4bb6b0fb28dc60f70c17, type: 3}
+  m_Name: CharacterData 13
+  m_EditorClassIdentifier: 
+  CharacterTypId: 13
+  CharacterPrefab: {fileID: 1656935683847618, guid: 1592a01ba2b92644bbefab27fc295fcb,
+    type: 3}
+  MaxHp: 3
+  Damage: 24
+  Description: "Dragon Freelancer \u2013 Sleeps all day but somehow still gets paid. "

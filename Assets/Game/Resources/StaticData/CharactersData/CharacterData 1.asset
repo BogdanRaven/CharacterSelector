@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d341077b8ca4bb6b0fb28dc60f70c17, type: 3}
+  m_Name: CharacterData 1
+  m_EditorClassIdentifier: 
+  CharacterTypId: 1
+  CharacterPrefab: {fileID: 1127201255718994, guid: a8a128c7bf0083645ae7193d0cb46d2d,
+    type: 3}
+  MaxHp: 2
+  Damage: 234
+  Description: nice guy
